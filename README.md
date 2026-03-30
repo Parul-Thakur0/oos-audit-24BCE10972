@@ -26,7 +26,7 @@ The repository contains five shell scripts and a written project report covering
 ## Repository Structure
 
 ```
-oss-audit-[rollnumber]/
+oss-audit-24BCE10972/
 │
 ├── README.md                          ← This file
 │
